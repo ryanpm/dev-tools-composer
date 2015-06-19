@@ -1,0 +1,7 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "royopa/phploy": ">=3.0.16",
+        "codeception/codeception": "^2.1@dev"
+    }
+}
